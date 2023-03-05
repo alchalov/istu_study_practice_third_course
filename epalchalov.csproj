@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>istu_study_practice</AssemblyName>
+    <RootNamespace>SP3C_EVMbz18_1_ChalovAL_zkXX42_v6</RootNamespace>
+    <StartupObject>SP3C_EVMbz18_1_ChalovAL_zkXX42_v6.Program</StartupObject>
+    <Authors>Aleksandr Chalov</Authors>
+    <Company>ISTU</Company>
+    <Product>Study Practice</Product>
+  </PropertyGroup>
+
+</Project>
